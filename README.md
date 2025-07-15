@@ -9,7 +9,7 @@ Welcome to the **Sports Shoes Website** project! This sleek, interactive website
 
 Check out the live version of the website:
 
-👉 [**Live Demo Link**](https://your-live-demo-link.com)
+👉 [**Live Demo Link**]()
 
 ---
 
@@ -17,10 +17,7 @@ Check out the live version of the website:
 
 Get a sneak peek of the user interface:
 
-![Screenshot 1](https://github.com/your-username/sports-shoes/raw/main/1.png)
-![Screenshot 2](https://github.com/your-username/sports-shoes/raw/main/2.png)
-![Screenshot 3](https://github.com/your-username/sports-shoes/raw/main/3.png)
-![Screenshot 4](https://github.com/your-username/sports-shoes/raw/main/4.png)
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/671d46eb-ec50-439e-926a-bb31f16c2ec4" />
 
 ---
 
