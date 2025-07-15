@@ -17,7 +17,8 @@ Check out the live version of the website:
 
 Get a sneak peek of the user interface:
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/671d46eb-ec50-439e-926a-bb31f16c2ec4" />
+<img width="1366" height="628" alt="Screenshot (464)" src="https://github.com/user-attachments/assets/1de9a848-76d1-4365-8f01-c1a4d09d4d95" />
+
 
 ---
 
